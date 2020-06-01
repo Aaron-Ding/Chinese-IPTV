@@ -1,13 +1,13 @@
 #EXTM3U
-#EXTINF:-1 ,CCTV-1高清
+#EXTINF:-1 ,tvg-id="cctv1" group-title="CCTV-HD",CCTV-1 HD
 rtp://239.3.1.129:8008
-#EXTINF:-1 ,CCTV-2高清
+#EXTINF:-1 ,tvg-id="cctv2" group-title="CCTV-HD",CCTV-2 HD
 rtp://239.3.1.60:8084
-#EXTINF:-1 ,CCTV-3
+#EXTINF:-1 ,tvg-id="cctv3" group-title="CCTV-HD",CCTV-3 HD
 rtp://239.3.1.240:8008
-#EXTINF:-1 ,CCTV-4高清
+#EXTINF:-1 tvg-id="cctv4" group-title="CCTV-HD",CCTV-4 HD
 rtp://239.3.1.105:8092
-#EXTINF:-1 ,CCTV-5
+#EXTINF:-1 tvg-id="cctv5" group-title="CCTV-HD",CCTV-5 HD
 rtp://239.3.1.244:8016
 #EXTINF:-1 ,CCTV5+
 rtp://239.3.1.130:8004
